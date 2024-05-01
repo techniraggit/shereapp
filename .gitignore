@@ -1,4 +1,4 @@
-# dotenv environment variables file
+# ENVIRONMENT FILES AND SECRET FILES
 .env
 config/shereKey.json
 # Logs
