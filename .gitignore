@@ -1,6 +1,6 @@
 # dotenv environment variables file
 .env
-shereKey.json
+config/shereKey.json
 # Logs
 logs
 *.log
