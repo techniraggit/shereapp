@@ -13,7 +13,7 @@ app.use("/api", userRoutes);
 
 const port = process.env.PORT || 8000;
 
-app.listen(port, "192.168.29.221", async () => {
+app.listen(port, async () => {
   await ConnectDB();
   console.log(`App is running on port:${port}`);
 });
